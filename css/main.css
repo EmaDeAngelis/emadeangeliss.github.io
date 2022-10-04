@@ -1,0 +1,174 @@
+.texto3, .texto1, .texto2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.texto2 {
+  color: rgb(156, 138, 173);
+}
+
+footer {
+  text-align: left;
+}
+footer .redes a {
+  color: rgb(225, 95, 225);
+  transition: all 0.8s ease;
+}
+footer .redes a:hover {
+  color: rgb(128, 30, 152);
+}
+
+header {
+  border-bottom: 3px solid rgb(183, 50, 203);
+}
+
+.texto1 {
+  background-color: rgb(224, 203, 243);
+  color: rgb(156, 138, 173);
+}
+
+.texto3 {
+  background-color: rgb(216, 181, 247);
+  color: rgb(156, 138, 173);
+}
+
+body header h1 {
+  color: rgb(133, 46, 214);
+  text-align: center;
+  font-size: 60px;
+  background-image: linear-gradient(to left, rgb(190, 133, 187), rgb(221, 181, 233), rgb(190, 133, 187));
+  margin: 0%;
+}
+body header nav {
+  font-size: 60px;
+  background-color: rgb(226, 201, 246);
+}
+
+.body {
+  background-color: rgb(233, 217, 247);
+}
+
+.linksRedes {
+  color: rgb(133, 78, 184);
+}
+
+.contacto {
+  color: rgb(223, 138, 223);
+  text-align: center;
+  font-size: 70px;
+  padding: 10px;
+}
+
+.imagen1 {
+  display: flex;
+  justify-content: center;
+}
+
+.imagen2 {
+  display: flex;
+  justify-content: center;
+}
+
+.imagen3 {
+  display: flex;
+  justify-content: center;
+}
+
+.navegador {
+  display: flex;
+  justify-content: center;
+}
+
+.mujer {
+  color: rgb(223, 138, 223);
+  text-align: center;
+  font-size: 70px;
+  padding: 10px;
+}
+
+.hombre {
+  color: rgb(223, 138, 223);
+  text-align: center;
+  font-size: 70px;
+  padding: 10px;
+}
+
+.ayudarte {
+  color: rgb(223, 138, 223);
+  text-align: center;
+  font-size: 70px;
+  padding: 10px;
+}
+
+.preguntasFrecuentes {
+  color: rgb(223, 138, 223);
+  text-align: center;
+  font-size: 60px;
+  padding: 10px;
+}
+
+.generales {
+  color: rgb(223, 138, 223);
+  text-align: center;
+  font-size: 60px;
+  padding: 10px;
+}
+
+.ayuda {
+  color: rgb(223, 138, 223);
+  text-align: center;
+  font-size: 60px;
+  padding: 10px;
+}
+
+.buscaAyuda {
+  text-align: center;
+}
+
+.listadoPreguntas {
+  display: flex;
+  justify-content: center;
+}
+
+.preguntasGenerales {
+  display: flex;
+  justify-content: center;
+}
+
+.listaAyuda {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+}
+.listaAyuda a {
+  color: rgb(133, 82, 181);
+  transition: all 0.8s ease;
+}
+.listaAyuda a:hover {
+  color: rgb(142, 1, 250);
+}
+
+.texto {
+  color: rgb(156, 138, 173);
+  text-align: center;
+}
+
+.imagenHombre {
+  display: flex;
+  justify-content: center;
+}
+
+.imagenMujer {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  margin-left: 50px;
+  max-width: 180px;
+  margin-bottom: 15px;
+}
+
+/*# sourceMappingURL=main.css.map *//*# sourceMappingURL=main.css.map */

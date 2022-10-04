@@ -1,0 +1,5 @@
+@mixin textoArriba($bgColor,$textoColor) {
+    background-color: $bgColor;
+    color: $textoColor;
+}
+

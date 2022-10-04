@@ -1,0 +1,12 @@
+footer{
+    text-align: map-get($textalign,textAlignFooter);
+    .redes{
+        a{
+            color: rgb(225, 95, 225);
+            transition: all 0.8s ease;
+            &:hover{
+                color: rgb(128, 30, 152);
+            }
+        }
+    }
+}

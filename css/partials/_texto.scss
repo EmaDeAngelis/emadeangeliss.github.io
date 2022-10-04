@@ -1,0 +1,14 @@
+.texto2 {
+    @extend %flexRowCenter;
+    @extend %textoColor;
+}
+
+.texto1 {
+    @include textoArriba(rgb(224, 203, 243),rgb(156, 138, 173));
+    @extend %flexRowCenter;
+}
+
+.texto3 {
+    @include textoArriba(rgb(216, 181, 247),rgb(156, 138, 173));
+    @extend %flexRowCenter;
+}
